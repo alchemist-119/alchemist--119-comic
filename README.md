@@ -23,7 +23,7 @@
 
 ### 🖼️ 支持老子觀點海報 (Concept Posters)
 
-| 🇨🇳 中文版：支持水不爭 | 🇺🇸 英文版：Support Lao Tzu |
+|  中文版：支持水不爭 |  英文版：Support Lao Tzu |
 | :---: | :---: |
 | ![支持水不爭海報](https://dais.me) | ![英文支持海報](https://dais.me) |
 
@@ -39,7 +39,7 @@
 
 ### 🖼️ 反駁老子觀點海報 (Counter-Argument Posters)
 
-| 🇨🇳 中文版：反駁老子水喻 | 🇺🇸 英文版：Challenge Lao Tzu |
+| 中文版：反駁老子水喻 | 🇺🇸英文版：Challenge Lao Tzu |
 | :---: | :---: |
 | ![反駁老子海報](https://dais.me) | ![英文反駁海報](https://dais.me) |
 
